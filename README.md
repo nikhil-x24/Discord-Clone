@@ -19,7 +19,7 @@ To start, run the Command:
 > npm run start
 ```
 
-Open [http://localhost:](http://localhost:) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
 ![video](https://github.com/nikhil-x24/Discord-Clone/assets/94430005/9388cd37-03cc-43d4-8f80-d2681cb4ecf4)
